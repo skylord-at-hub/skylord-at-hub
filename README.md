@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skylord-at-hub
 - 👀 I’m interested in minetest and html coding
 - 🌱 I’m currently learning some css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ My most recent projects im working on is a webpage for survival-go
+- 📫 How to reach me Disscord: Its_Skylord #9671
 
 <!---
 skylord-at-hub/skylord-at-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
